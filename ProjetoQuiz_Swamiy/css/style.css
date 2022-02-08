@@ -103,3 +103,12 @@ h1 {
     color: #00b0ff;
 }
 
+footer > p {
+    padding: 10px;
+    font-family: 'Roboto Slab';
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1.3px 1.3px 0px rgba(0, 0, 0, 0.473);
+    text-align: center;
+}
+
